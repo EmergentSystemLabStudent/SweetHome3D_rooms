@@ -11,3 +11,7 @@ Please convert .sh3d file to .obj file using Sweet Home 3D and then to .fbx file
 Conversion to. fbx file is done by using here. (http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)
 
 These rooms were created by Kazuya Asada and others of Emergent Systems Laboratory.
+
+directory:
+Type1: Relatively similar rooms
+Type2: Rooms with different contents
