@@ -13,8 +13,8 @@ Conversion to. fbx file is done by using here. (http://usa.autodesk.com/adsk/ser
 These rooms were created by Kazuya Asada and others in Emergent Systems Laboratory, Ritsumeikan University, Japan.
 
 Directory:  
- - /Type1/: Relatively similar rooms  
- - /Type2/: Rooms with different contents  
+ - /Type1/: Rooms with different contents  
+ - /Type2/: Relatively similar rooms  
 
 Example:  
 
