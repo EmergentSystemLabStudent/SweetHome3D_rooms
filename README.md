@@ -10,8 +10,22 @@ Please convert .sh3d file to .obj file using Sweet Home 3D and then to .fbx file
 
 Conversion to. fbx file is done by using here. (http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)
 
-These rooms were created by Kazuya Asada and others of Emergent Systems Laboratory.
+These rooms were created by Kazuya Asada and others in Emergent Systems Laboratory, Ritsumeikan University, Japan.
 
-directory:
-Type1: Relatively similar rooms
-Type2: Rooms with different contents
+Directory:  
+ - /Type1/: Rooms with different contents  
+ - /Type2/: Relatively similar rooms  
+
+Example:  
+
+|Type1  |Type2  |
+|---|---|
+|2LDK_01<BR> <img src="https://raw.githubusercontent.com/EmergentSystemLabStudent/SweetHome3D_rooms/master/Type1/2LDK/2LDK_01.jpeg" width=80%> |3LDK_05<BR> <img src="https://raw.githubusercontent.com/a-taniguchi/SweetHome3D_rooms/master/Type2/3LDK/3ldk_5.PNG" width=80%> |
+
+
+
+## How to include collision detection  
+1. Select all objects of the room in the hierarchy window (the left menu) of Unity  
+2. Click Inspector of Add Tab in menu icon  
+2. Click Add Component on the Inspector tab  
+3. Select Mesh Collider  
